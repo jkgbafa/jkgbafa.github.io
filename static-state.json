@@ -1,0 +1,46 @@
+{
+  "staticPreview": true,
+  "user": { "id": "github-pages", "name": "Lucia" },
+  "settings": {
+    "time": "08:00",
+    "notifications": false,
+    "discreet": true,
+    "household": 2,
+    "budget": 0
+  },
+  "seed": {
+    "ROLES": [],
+    "PRINCIPLES": [],
+    "NURSING_WIFE": {
+      "note": "Private teaching content will appear after the backend is connected.",
+      "items": []
+    },
+    "HUSBAND_NOTES": {},
+    "DONT_MAKE": [],
+    "VERY_SAFE": []
+  },
+  "recipes": [],
+  "markets": [
+    { "id": "melcom", "name": "Melcom" },
+    { "id": "kaneshie", "name": "Kaneshie Market" }
+  ],
+  "prices": [],
+  "basket": [],
+  "plans": [],
+  "ideas": [],
+  "bookmarks": [],
+  "notes": [],
+  "messages": [],
+  "threads": [],
+  "uploads": [],
+  "quote": {
+    "id": "pages-welcome",
+    "title": "A soft answer turns away wrath.",
+    "text": "Begin gently. Clarity and kindness can live in the same sentence.",
+    "source": "Proverbs 15:1",
+    "category": "life",
+    "type": "quotation"
+  },
+  "sourceCount": 0,
+  "pushKey": ""
+}
