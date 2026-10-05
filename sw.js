@@ -1,5 +1,5 @@
 const STATIC_FRONTEND=true;
-const CACHE='virtuous-shell-1791165570555';
+const CACHE='virtuous-shell-1791230579717';
 self.addEventListener('install',event=>{event.waitUntil((async()=>{
  const cache=await caches.open(CACHE);
  const assets=STATIC_FRONTEND?await fetch('/shell-assets.json').then(r=>r.json()):['/offline.html','/icons/ribbon-v.png'];
