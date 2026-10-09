@@ -1,3 +1,3 @@
-:HL["/_next/static/css/6335fc4575a2426f.css","style"]
+:HL["/_next/static/css/b3c7da3f40eb8394.css","style"]
 :HL["/films/ribbon-studio-loop.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"AtjT2wGrNEbG9-U2fHznU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"H6lYqgrU2jCtudq6LoBl3"}
