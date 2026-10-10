@@ -1,4 +1,4 @@
-:HL["/_next/static/css/5d95f94d37785ebb.css","style"]
-:HL["/_next/static/css/a6d03ffb625ad225.css","style"]
+:HL["/_next/static/css/9bb79214a1302323.css","style"]
+:HL["/_next/static/css/a3b97fa4555f6ea1.css","style"]
 :HL["/films/ribbon-studio-loop.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"a1","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"2U23sAshBGzMxHhq3rOBt"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"a1","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"hE07Un81-tfRlc0kdAt2r"}
